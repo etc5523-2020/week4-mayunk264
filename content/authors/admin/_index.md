@@ -13,7 +13,7 @@ interests:
 organizations:
 - name: Stanford University
   url: ""
-role: Professor of Artificial Intelligence
+role: Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,7 +28,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Mayunk Bharadwaj
 user_groups:
 - Researchers
 - Visitors
